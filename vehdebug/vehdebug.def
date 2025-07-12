@@ -1,0 +1,6 @@
+; vehdebug.def : Declares the module parameters for the DLL.
+
+LIBRARY      "vehdebug"
+
+EXPORTS
+    ; Explicit exports can go here
